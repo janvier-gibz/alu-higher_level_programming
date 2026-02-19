@@ -1,1 +1,1 @@
-print ("best school")
+print ("is fun!")
