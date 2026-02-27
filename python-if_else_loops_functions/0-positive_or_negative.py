@@ -3,10 +3,10 @@ import random
 number = random.randint(-10, 10)
 number = int(input("Enter a number "))
 if number > 0:
-    print("number is positive")
+    print("positive")
 
 elif number < 0:
-    print("number is negative")
+    print("negative")
 
 else:
-    print("number is zero")
+    print("zero")
